@@ -1,6 +1,6 @@
 ## Olá, eu sou o Lorenzzo Michelim!
 
--  💻 Atualmente estou cursando o primeiro ano de Engenharia de Software.
+-  💻 Atualmente estou cursando o segundo ano de Engenharia de Software.
 -  ⚙️ Em busca de estágio.
 
 <div> 
