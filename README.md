@@ -1,12 +1,35 @@
-## Olá, eu sou o Lorenzzo Michelim!
+# 👋 Olá! Eu sou LORENZZO MICHELIM
 
-- 🎓 Estudante de Eng. de Software - 3º Semestre
-- 🚀 Futuro Desenvolvedor Full Stack
-- 💻 Fortalecendo as bases com HTML5 e Lógica de Programação
+🎓 Estudante de Eng. de Software - 3º semestre  
+🚀 Em formação para me tornar Desenvolvedor Full Stack  
+🎯 Foco principal: Back-end  
 
+---
 
-<div> 
-  <a href="https://www.linkedin.com/in/lorenzzo-michelim-946161382/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+## 📚 Atualmente estudando
 
+- HTML5 (Curso em Vídeo - Gustavo Guanabara)
+- Fundamentos da Web
+- Lógica de Programação
+- Disciplinas da graduação
+
+---
+
+## 🛠️ Tecnologias em aprendizado
+
+- HTML5
+- Git & GitHub
+
+---
+
+## 🎯 Objetivo
+
+Construir uma base sólida em desenvolvimento web e evoluir para o Back-end,
+buscando oportunidades de estágio na área de tecnologia.
+
+---
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/lorenzzo-michelim-946161382/
+- Email: lorenzzomichelim@gmail.com
