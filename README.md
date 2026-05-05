@@ -1,11 +1,6 @@
 ## Olá, eu sou o Lorenzzo Michelim!
 
--  🚀 Future Full Stack Developer
-
-- 💻 Atualmente focado em fundamentos (HTML/CSS) e Lógica de Programação.
-
-- ⚙️ No futuro, focado em construir soluções robustas no Back-end.
-
+-  🚀 Futuro Desenvolvedor Full Stack | Estudando Fundamentos Web (HTML/CSS) | Foco em Lógica e Back-end ⚙️
 
 
 <div> 
