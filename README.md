@@ -1,6 +1,6 @@
 ## Olá, eu sou o Lorenzzo Michelim!
 
-- 🎓 Estudante de Engenharia de Software - 3º Semestre
+- 🎓 Estudante de Eng. de Software - 3º Semestre
 - 🚀 Futuro Desenvolvedor Full Stack
 - 💻 Fortalecendo as bases com HTML5 e Lógica de Programação
 
